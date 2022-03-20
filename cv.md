@@ -18,3 +18,14 @@ Hi, my name is Vladislav.I started to get interested in programming recently.My 
 - Java (Basic)
 - Git
 - Figma
+
+## __Code Example__
+```
+
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
+alert( result );
+
+```
