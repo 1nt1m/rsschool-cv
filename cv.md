@@ -11,3 +11,10 @@
 ## __About Me__
 Hi, my name is Vladislav.I started to get interested in programming recently.My strengths: responsibility, friendliness,  good stress resistance. My goal is to gain new knowledge and overcome another step in the path of becoming a "programmer"
 
+## __Skills__
+- HTML
+- CSS
+- JavaScript (Basic)
+- Java (Basic)
+- Git
+- Figma
